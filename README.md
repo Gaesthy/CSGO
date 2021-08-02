@@ -7,7 +7,7 @@ This is set of my CSGO config files.
 	-novid -tickrate 128 -console -language english
 
 ### Other Settings
-+ Windows Sensitivity: 4/11
++ Windows Sensitivity: **4/11**
 + Enhance Pointer Precision: No
 + Mouse DPI: 800
 + Mouse Polling Rate: 1000hz
