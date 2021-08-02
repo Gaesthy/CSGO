@@ -1,4 +1,4 @@
-# Gaesthy's Configuration Files
+# Gaesthy's Cfg Files
 
 This is set of my CSGO config files.
 
